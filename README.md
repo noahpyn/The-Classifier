@@ -12,6 +12,4 @@ Live Site: https://www.theclassifier.net/futures-database
 
 ![Animated GIF-downsized_large](https://user-images.githubusercontent.com/75100642/121732306-fca82200-cae9-11eb-98d5-82b42ae23edc.gif)
 
-
-<img width="1150" alt="Screenshot 2021-06-11 at 04 37 22" src="https://user-images.githubusercontent.com/75100642/121627177-c9747d00-ca6e-11eb-8893-91173b667522.png">
-
+<img width="1435" alt="Screenshot 2021-06-11 at 19 18 15" src="https://user-images.githubusercontent.com/75100642/121732514-43961780-caea-11eb-9a8d-8abba019a47f.png">
