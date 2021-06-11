@@ -1,4 +1,4 @@
-# The-Classifier
+# The Classifier
 A 3d WEBGL database that was created using Javascript &amp; P5JS. 
 
 Creative Director: Ella Jonquil Fitzgerald [https://www.instagram.com/ellafitzfabulous/] <br>
