@@ -9,7 +9,7 @@ This is a WEBGL audio visualiser using P5JS loadImage(),  loadSong()  and mouseP
 
 Live Site: https://the-classifier-coghfwx9m-noahpyn.vercel.app/
 
-Click on the images to hear the audio  
+Click on the images to hear the audio once you enter link:
 
 <img width="1150" alt="Screenshot 2021-06-11 at 04 37 22" src="https://user-images.githubusercontent.com/75100642/121627177-c9747d00-ca6e-11eb-8893-91173b667522.png">
 
